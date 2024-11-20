@@ -1,6 +1,4 @@
-<div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
-</div>
+
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Joaquin Bardelli</h1>
 
 ![Seguidores en GitHub](https://img.shields.io/github/followers/JoaquinBardelli?style=social) ![Estrellas de usuario en GitHub](https://img.shields.io/github/stars/JoaquinBardelli?style=social) ![Visitante](https://visitor-badge.laobi.icu/badge?page_id=JoaquinBardelli.repoName) <img src="https://komarev.com/ghpvc/?username=JoaquinBardelli" alt="JoaquinBardelli" />
@@ -18,7 +16,7 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@joaco.barde")](https://www.instagram.com/joaco.barde/)  [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@JoaquinBardelli")](https://www.linkedin.com/in/joaquin-bardelli-63071a334/
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@joaco.barde")](https://www.instagram.com/joaco.barde/)  [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@JoaquinBardelli")](https://www.linkedin.com/in/joaquin-bardelli-63071a334/)
 
 <br>
 
