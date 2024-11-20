@@ -1,22 +1,22 @@
 <div align="center" width="50">
     <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anushka Wijegoonawardana</h1>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Anushka Wijegoonawardana</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
+![Seguidores en GitHub](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![Estrellas de usuario en GitHub](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitante](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
 
-## About Me :
+## Sobre mí:
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- 🏢 Actualmente trabajo como **Ingeniero de Software Senior** en [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
+- 🏢 Anteriormente fui **Ingeniero de Software** en [iLabs](https://www.ilabs.lk/)
+- 🎓 Estudié Ingeniería de Software en [London Metropolitan University](https://www.londonmet.ac.uk/)
+- 🎓 También estudié BCS HEQ en [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
+- 🏡 Vivo en **Dalugama, Sri Lanka**
+- ⚡ **Datos curiosos**: 🍕 🏉 🏏 🎥 🚞
 
 <br>
 
-## Connect with me ☕ :
+## Conéctate conmigo ☕:
 
 <br>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-## What I am Good at 🧑‍💻 :
+## En qué soy bueno 🧑‍💻:
 
 <br>
 
@@ -38,30 +38,30 @@
 
 <br>
 
-## GitHub Stats 📈 :
+## Estadísticas de GitHub 📈:
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Estadísticas de GitHub de AnushkaWijegoonawardana97](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Estadísticas de wakatime de AnushkaWijegoonawardana97](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
 
 <br>
 
-## GitHub Thropies 🏆 :
+## Trofeos de GitHub 🏆:
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
+[![Trofeos](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
 
 <br>
 
-## Activity Graph 📊 :
+## Gráfico de Actividad 📊:
 
 <br>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de actividad en GitHub](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
+Crédito: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
 
-Last edited on: 30/06/2022
+Última edición: 30/06/2022
