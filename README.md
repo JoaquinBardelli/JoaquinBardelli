@@ -18,7 +18,7 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@joaco.barde")](https://www.instagram.com/joaco.barde/)  [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@JoaquinBardelli")](https://www.linkedin.com/in/joaquin-bardelli-63071a334/)[![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@joaquinbardelli@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@joaquinbardelli@gmail.com")](joaquinbardelli@gmail.com)
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@joaco.barde")](https://www.instagram.com/joaco.barde/)  [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@JoaquinBardelli")](https://www.linkedin.com/in/joaquin-bardelli-63071a334/
 
 <br>
 
@@ -40,7 +40,8 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoaquinBardelli&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Estadísticas de GitHub de JoaquinBardelli](https://github-readme-stats.vercel.app/api?username=JoaquinBardelli&theme=algolia)](https://github.com/JoaquinBardelli/github-readme-stats) [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinBardelli&theme=algolia)](https://github.com/JoaquinBardelli/github-readme-stats) [![Estadísticas de wakatime de JoaquinBardelli](https://github-readme-stats.vercel.app/api/wakatime?username=JoaquinBardelli&theme=algolia)](https://github.com/JoaquinBardelli/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoaquinBardelli&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Estadísticas de GitHub de JoaquinBardelli](https://github-readme-stats.vercel.app/api?username=JoaquinBardelli&theme=algolia
+)](https://github.com/JoaquinBardelli/github-readme-stats) [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaquinBardelli&theme=algolia)](https://github.com/JoaquinBardelli/github-readme-stats) [![Estadísticas de wakatime de JoaquinBardelli](https://github-readme-stats.vercel.app/api/wakatime?username=JoaquinBardelli&theme=algolia)](https://github.com/JoaquinBardelli/github-readme-stats)
 
 <br>
 
