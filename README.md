@@ -5,7 +5,7 @@
 
 ## Sobre mí:
 
-- 🏢 Actualmente soy estudiante del Politecnico Modelo en al especialidad computacion
+- 🏢 Actualmente soy estudiante del Politecnico Modelo en la especialidad computacion
 - 🏡 Vivo en **Capital Federal, Argentina**
   
 - ⚡ **Datos curiosos**: 🍕 🏉 🏏 🎥 🚞
