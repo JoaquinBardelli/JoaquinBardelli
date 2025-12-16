@@ -5,7 +5,7 @@
 
 ## Sobre mí:
 
-- 🏢 Actualmente soy estudiante del Politecnico Modelo en la especialidad computacion
+- 🏢 Actualmente soy estudiante de la carrera Ciencias de la computación en la UBA.
 - 🏡 Vivo en **Capital Federal, Argentina**
   
 - ⚡ **Datos curiosos**: 🍕 🏉 🏏 🎥 🚞
