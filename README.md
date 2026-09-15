@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00C9A7&height=190&section=header&text=Joaquin%20Bardelli&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Ciencias%20de%20la%20Computaci%C3%B3n%20%40%20UBA&descAlignY=62&descSize=18" width="100%"/>
-<br>
-**Técnico en Computación 🎓 · Instituto Politécnico Modelo**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00C9A7&height=210&section=header&text=Joaquin%20Bardelli&fontSize=38&fontAlignY=36&fontColor=ffffff&animation=fadeIn&desc=Ciencias%20de%20la%20Computaci%C3%B3n%20%40%20UBA&descAlignY=56&descSize=17" width="100%"/>
+
+<p><strong>Técnico en Computación 🎓 · Instituto Politécnico Modelo</strong></p>
 
 <img src="https://img.shields.io/badge/📍-Capital_Federal,_Argentina-1a1a1a?style=flat-square&labelColor=1a1a1a&color=00C9A7" />
 <img src="https://img.shields.io/github/followers/JoaquinBardelli?style=flat-square&color=00C9A7&labelColor=1a1a1a&label=Followers" />
@@ -17,7 +17,7 @@
 - 🎓 **1er año** — Licenciatura en Ciencias de la Computación, **UBA**
 - 🖥️ **Técnico en Computación** — egresado del **Instituto Politécnico Modelo**
 - 📍 Capital Federal, Argentina
-- 🍕🏉🏏🎥🚞 Pizza, rugby, cricket, cine y trenes — lo que me despeja la cabeza fuera del código
+- 🏀🚗🏋️ Básquet, autos y gimnasio — lo que me despeja la cabeza fuera del código
 
 <br>
 
@@ -39,15 +39,16 @@
 
 <br>
 
-## ☕ Conectemos
+## 🔗 Conectemos
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/joaquin-bardelli-63071a334/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.instagram.com/joaco.barde/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=instagram" title="Instagram" />
 </a>
 
 </div>
