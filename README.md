@@ -35,7 +35,9 @@
 
 ## 🚀 Proyecto destacado
 
-> **[BalanzaHX711](https://github.com/JoaquinBardelli/BalanzaHX711)** — Sistema de pesaje de precisión con celda de carga y amplificador HX711, controlado por Arduino (C++).
+> **MyStats** — App para trackear estadísticas de básquet: cargá tus partidos y consultá tus promedios cuando quieras.
+>
+> [Backend](https://github.com/JoaquinBardelli/mystatsBACK) · [Frontend](https://github.com/JoaquinBardelli/mystatsFRONT)
 
 <br>
 
