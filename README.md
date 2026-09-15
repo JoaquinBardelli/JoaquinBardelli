@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00C9A7&height=190&section=header&text=Joaquin%20Bardelli&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Ciencias%20de%20la%20Computaci%C3%B3n%20%40%20UBA&descAlignY=62&descSize=18" width="100%"/>
-
+<br>
 **Técnico en Computación 🎓 · Instituto Politécnico Modelo**
 
 <img src="https://img.shields.io/badge/📍-Capital_Federal,_Argentina-1a1a1a?style=flat-square&labelColor=1a1a1a&color=00C9A7" />
